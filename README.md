@@ -41,7 +41,7 @@ Exemplo de Entrada Exemplo de Saída
 543
 87
 
-SEGUNDO DESAFIO
+# SEGUNDO DESAFIO
 
 Leia um valor de ponto flutuante com duas casas decimais. Este valor representa um valor
 monetário. A seguir, calcule o menor número de notas e moedas possíveis no qual o valor
@@ -72,7 +72,8 @@ MOEDAS:
 3 moeda(s) de R$ 0.01
 
 Obs.: Utilize ponto (.) para separar a parte decimal.
-TERCEIRO DESAFIO
+
+# TERCEIRO DESAFIO
 
 Dado um array de inteiros e um valor alvo, determine o número de pares entre os elementos
 do array em que a sua diferença seja igual ao valor alvo.
@@ -105,7 +106,7 @@ STDIN Function
 Exemplo de saida
 3
 
-QUARTO DESAFIO
+# QUARTO DESAFIO
 
 A sua impressora foi infectada por um vírus e está imprimindo de forma incorreta. Depois
 de olhar para várias páginas impressas por um tempo, você percebe que ele está
